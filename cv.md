@@ -1,4 +1,4 @@
-![Image]('./assets/image.jpg')
+![Image](./assets/image.jpg)
 
 # **Olesya Makarova**
 
