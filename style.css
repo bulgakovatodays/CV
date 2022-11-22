@@ -117,7 +117,3 @@ h2 {
   justify-content: space-around;
 }
 
-.pet-projects {
-  display: flex;
-  flex-direction: column-reverse;
-}
